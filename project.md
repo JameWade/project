@@ -10,6 +10,8 @@
 |DOP|https://doptest.dop.org?id=8UNSVDW|https://twitter.com/dop_org|
 |100swap |https://100swap.io/pools/|https://testnet.inbrc.org/|
 |taiko|https://galxe.com/taiko/|https://twitter.com/taikoxyz
+|supra|https://supra.com/blastoff/learn||2000万刀|
+|zircuit|https://bridge.zircuit.com/
 
 
 
