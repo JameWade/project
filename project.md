@@ -12,6 +12,9 @@
 |taiko|https://galxe.com/taiko/|https://twitter.com/taikoxyz
 |supra|https://supra.com/blastoff/learn||2000万刀|
 |zircuit|https://bridge.zircuit.com/
+|fuel|https://app.fuel.network/ |
+|bsquared|https://task.bsquared.network/points/|
+|io.net|https://galxe.com/io.net/campaign/GCkwmt4x9i
 
 
 
