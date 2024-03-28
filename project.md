@@ -15,6 +15,10 @@
 |fuel|https://app.fuel.network/ |
 |bsquared|https://task.bsquared.network/points/|
 |io.net|https://galxe.com/io.net/campaign/GCkwmt4x9i
+|PotatoWsap|https://galxe.com/PotatoSwap/campaign/GCbJ2t4fqP|
+|mitosis|https://expedition.mitosis.org/dashboard|
+|mindnetwork|https://galxe.com/MindNetwork|
+
 
 
 
