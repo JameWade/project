@@ -13,9 +13,9 @@
 |supra|https://supra.com/blastoff/learn||2000万刀|
 |zircuit|https://bridge.zircuit.com/
 |fuel|https://app.fuel.network/ |
-|bsquared|https://task.bsquared.network/points/|
+|bsquared|https://task.bsquared.network/points/|https://medium.com/@shoebill.finance/shoebill-b%C2%B2-bsquared-odyssey-guide-5557518e3faf
 |io.net|https://galxe.com/io.net/campaign/GCkwmt4x9i
-
+| PotatoWsap| https://galxe.com/PotatoSwap/campaign/GCbJ2t4fqP
 
 
 
