@@ -1,4 +1,7 @@
 
+
+
+
 | 项目        | 任务网址                                                     | 官方推特或者其余相关地址 | 融资情况 | 评价                |
 |-------------|--------------------------------------------------------------|------------------------|----------|---------------------|
 | berachain   | https://galxe.com/6QcBpqL5p43Gh8UQeb8oxj/campaign/GCohYt4gsX   | https://twitter.com/berachain | 千万级别 |                     |
@@ -22,6 +25,16 @@
 |   avail     |https://lightclient.availproject.org/                       |https://twitter.com/AvailProject|
 |   zklink      |[https://zklink.io](https://zklink.io/)   |
 
+
+
+# 2024-5-9更新
+
+
+| 项目        | 任务网址                                                     | 官方推特或者其余相关地址 | 融资情况 | 评价                |
+|-------------|--------------------------------------------------------------|------------------------|----------|---------------------|
+|Movement |https://app.galxe.com/quest/Movement/|4500万美元|这个项目建议长期交互追踪|
+|sp1|这个项目目前参与不了，开发者可以去提交pr|
+|analog |https://mp.weixin.qq.com/s/K0S9_uirOFZFBLjmkmVabw|1.6M $
 
 
 
