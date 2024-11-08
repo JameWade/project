@@ -37,6 +37,14 @@
 |analog |https://mp.weixin.qq.com/s/K0S9_uirOFZFBLjmkmVabw|1.6M $
 
 
+# 2024-11-8更新
 
+前段时间行情不好，懒了，grass的空投又给我信心了。。后面更新我就直接扔rootdata地址了，项目信息去roodata看
+https://www.rootdata.com/Projects/detail/Story%20Protocol?k=Nzg4OA%3D%3D
+
+| 项目   |   rootdata地址        | 任务网址   
+|-------------|--------------------------------------------------------------|------------------------|
+| story   |   [rootdata](https://www.rootdata.com/Projects/detail/Story%20Protocol?k=Nzg4OA%3D%3D)      |   https://mint.story.foundation/
+|gradient|[rootdata](https://www.rootdata.com/Projects/detail/Gradient%20Protocol?k=MTIxOTY%3D)|https://app.gradient.network/signup?code=MYF3XJ | 
 
 
